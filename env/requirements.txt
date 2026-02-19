@@ -1,6 +1,5 @@
 numpy
 mlflow
-geopandas
 scikit-learn
 scikit-image
 torch
@@ -35,3 +34,9 @@ utm
 xhistogram
 scipy
 psutil
+
+Cartopy==0.25.0
+matplotlib==3.10.8
+numpy==2.4.2
+scipy==1.17.0
+xarray==2026.1.0
